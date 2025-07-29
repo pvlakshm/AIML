@@ -1,4 +1,6 @@
-#### ML Primer  
-- [Learn-a-line](Learn-a-line.ipynb): Linear Regression to learn the slope and intercept of a line that passes through a set of points that we define.
-- [Learn-a-formula](Learn-a-formula.ipynb): Multivariate Linear Regression.
-- [Logistic Regression](LogisticRegression.ipynb): Logistic Regression.
+## ML Primer
+| **Model**                                               | **What It Learns from the Dataset**                                                | **What It Can Predict**                                              |
+|---------------------------------------------------------|------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| [Linear Regression](Learn-a-line.ipynb)                 | A single feature weight (slope) and an intercept that best fit the data points     | A **continuous numeric value**                                       |
+| [Multivariate Linear Regression](Learn-a-formula.ipynb) | Multiple feature weights (one per feature) and an intercept                        | A **continuous numeric value**                                       |
+| [Logistic Regression](LogisticRegression.ipynb)         | Feature weights that map inputs to probabilities using the **sigmoid function**    | A **probability** of class membership, leading to **classification** |
