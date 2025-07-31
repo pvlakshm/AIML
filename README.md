@@ -1,4 +1,7 @@
 ## ML Primer
+- Gently introduces the various ML models, what they learn, and what they can predict.
+- Uses simple datasets that the reader can easily build an intuition around.
+
 | **Model**                                                  | **What It Learns from the Dataset**                                                | **What It Can Predict**                                               |
 |------------------------------------------------------------|------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
 | [Linear Regression](Learn-a-line.ipynb)                    | A single feature weight (slope) and an intercept that best fit the data points.    | A **continuous numeric value**.                                       |
