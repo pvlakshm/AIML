@@ -9,3 +9,4 @@
 | [Logistic Regression](LogisticRegression.ipynb) Classifier | Feature weights that map inputs to probabilities using the **sigmoid function**.   | A **probability** of class membership, leading to **classification**. |
 | [Decision Tree](DecisionTree.ipynb) Classifier             | A set of **if-then rules** based on feature splits that recursively partition data | A **class label** to which the data belongs.                          |
 | [K-NearestNeighbors](KNN.ipynb) Classifier                 | Memorizes the dataset. Does not "learn" anything in the traditional sense.         | A **class label** to which the data belongs.                          |
+| [SVM](SVM.ipynb) Classifier                                | The optimal decision boundary that maximizes the margin between classes.           | A **class label** to which the data belongs.                          |
